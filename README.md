@@ -27,3 +27,7 @@ Este projeto é uma aplicação de lista de tarefas (To-Do List) construída em 
   <li> npm install </li>
   <li> composer dev </li>
 </ul>
+
+<img src="https://github.com/SidSan97/controlador-tarefas/blob/main/img/1.png">
+<hr>
+<img src="https://github.com/SidSan97/controlador-tarefas/blob/main/img/2.png">
