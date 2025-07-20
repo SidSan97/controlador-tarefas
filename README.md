@@ -1,8 +1,14 @@
+# PROJETO TODO
+
+<p> 
+Este projeto é uma aplicação de lista de tarefas (To-Do List) construída em Laravel no Backend e Blade no front usando Ajax para as requisições. API segue o modelo RESTful e as funcionalidades do sistema segue um padrão CRUD para as <i>tasks</i> e <i>categorias</i>. Além disso, é possivel mover tasks de um card pra outro seguindo o reodernamento, no estilo Trello.
+</p>
+
 <h3> Tecnologias: </h3>
 <ul>
   <li> Laravel 12 </li>
   <li> Bootstrap </li>
-    <li> Blade </li>
+  <li> Blade </li>
   <li> JQuery </li>
   <li> Ajax </li>
   <li> Bootstrap Icons </li>
